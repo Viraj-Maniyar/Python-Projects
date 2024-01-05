@@ -5,3 +5,4 @@ Projects in python form basic to advance.
 2. Email-validation using RegEx
 3. QRcode-generator
 4. Shutdown-App-Gui
+5. Type-speed-calculator
